@@ -1,6 +1,6 @@
 # nextJS
 ### Instalar a Node.js
-
+PowerShell
 #### layouts.download.codeBox.installsFnm
 winget install Schniz.fnm
 
